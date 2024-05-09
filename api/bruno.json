@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Tractian Challange",
+  "type": "collection",
+  "presets": {
+    "requestType": "http",
+    "requestUrl": "fake-api.tractian.com"
+  }
+}
